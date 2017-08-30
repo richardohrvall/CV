@@ -1,0 +1,193 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ro-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Richard Öhrvall
+
+jobtitle: "PhD Candidate, Political Science, Linköping University"
+jobtitle2: "Researcher, Research Institute of Industrial Economics (IFN)"
+address: "Vattenledningsvägen 16, SE-126 33, Hägersten, Sweden"
+fontawesome: yes
+email: richard.ohrvall@gmail.com
+#github: ryanpeek
+#phone: "+46 708 845 875"
+#twitter: @test
+web: richardohrvall.rbind.io/en
+
+#select either of these two depending on Swedish or not
+updated: yes
+#updated_sv: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*Linköping University*, PhD student in political science \hfill 2013--2018
+
+*Stockholm University*, statistics, bachelor's level \hfill 2013
+
+*Uppsala universitet*, M.A. in political science \hfill 2002
+
+Different courses at *Lund University, Örebro University, Fudan University (China), Beijing Language and Cultural School (China), University of Michigan (USA)* and internal courses at *Statistics Sweden*.
+
+
+# EMPLOYMENT
+*Linköping Universitet* \hfill 2013--
+
+ > PhD student in political science
+
+*Research Institute of Industrial Economics* \hfill 2016--
+ 
+ > Researcher
+
+*Statistics Sweden* \hfill 2001--
+ 
+ > Senior advisor, responsible for the Swedish National Election Studies (SNES), the Swedish Electoral Participation Survey, the Study of Nominated and Elected Candidates, and The Survey of Elected Representatives in Municipalities and County Councils, My work there include studies of political participation, opinion polls, statistical methodology, questionnaire design, analyses, etc.  
+ 
+ > Editor of Statistics Sweden's journal *Välfärd* [Welfare] 2005--2006. 
+ 
+ > On leave 2006--2007, 2016--
+
+*Research Institute of Industrial Economics* \hfill 2013--2014	
+ 
+ > Researcher, the research project ”From Welfare State to Welfare Society”. 
+
+*Linköping university* \hfill 2013--2014
+ 
+ >	Researcher, research project on municipal corporations.
+	
+*Linnaeus University* \hfill 2010--2012	
+ 
+ > Researcher, research project on trust and corruption in local politics.
+
+*Linköping University* \hfill 2009 
+ 
+ > Researcher, research project on local politicians. 
+	
+*Statistics Sweden/Sida* \hfill 2006--2007	
+ 
+ > Expert on household surveys at National Institute of Statistics (NIS) in Cambodia, as part of a project founded by Sida. 
+
+*Uppsala University* \hfill 2000--2001
+ 
+ > Research assistant at Department of Government, Uppsala University, in the research projects ”Mechanisms of Democracy”, “Effects of EU On Nordic Democracies” , and  “Coalition Formation in Swedish Local Government”.
+
+# INTERNATIONAL EXPERIENCE
+
+Long-term advisor, at National Institute of Statistics (NIS), Cambodia, serving as an expert on household surveys, 2006–-2007.
+
+Consultancy missions on behalf of Statistics Sweden and the Swedish International Cooperation Agency (Sida) in countries such as Albania, Armenia, Belgium, Bosnia & Herzegovina, Burundi, France, China, Laos, Mexico and Serbia, 2002–-2015. 
+	
+Project manager for Statistics Sweden’s projects in Armenia and China, 2007–-2009. 
+
+Statistics Sweden’s representative in the international project Metagora, under OECD and with the purpose of creating indicators to measure democracy, human rights and governance, 2003–-2008. 
+
+# TEACHING
+
+I have been teaching quantitative methods at B.A and M.A level at Linköping University since 2014,  including lectures, seminars and computer labs. I have also held lectures (M.A. level) on visualization of data at Uppsala University and on quality of government at Linköping University. 
+
+# PUBLICATIONS
+
+## **Articles in refereed journals**
+
+More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483–500. [With Andreas Bergh and Günther Fink]
+
+”Att bolagisera kommunal verksamhet. Implikationer för granskning, ansvarsutkrävande and demokrati?” (2016), *Statsvetenskaplig tidskrift*, 117(4): 555-585. [With Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson and Anna Thomasson].
+
+"Distrust in Utopia? Public Perceptions of Corruption and Political Support in Iceland Before and after the Financial Crisis in 2008" (2016), *Government and Opposition*, 51(4): 553-579. [With Gissur Ó. Erlingsson and Jonas Linde].
+
+”Not so fair after all? Perceptions of procedural fairness and satisfaction with democracy in the Nordic welfare states” (2014), *International Journal of Public Administration*, 37(2): 106-119. [With Gissur Ó. Erlingsson and Jonas Linde]. 
+
+”The Single-Issue Party Thesis and the Sweden Democrats” (2014), *Acta Politica*, 49(2): 196-216. [With  Gissur Ó. Erlingsson and Kåre Vernby].
+
+”Does Election Day Weather Affect Voter Turnout?  Evidence from Swedish Elections” (2014), *Electoral Studies*, 33: 335-342. [With Mikael Persson and Anders Sundell].
+
+”Voter turnout and political equality: Testing the law of dispersion in a Swedish natural experiment” (2013), *Politics*, 33(3): 172-18. [With Mikael Persson and Maria Solevid].
+
+”Anti-immigrant parties, local presence and electoral success” (2012), *Local Government Studies*, 38(6): 817-830. [With Gissur Ó. Erlingsson and Karl Loxbo].
+
+“Den motvilligt engagerade altruisten: Om partiWithlemskap and partiaktivism” (2012). *Statsvetenskaplig tidskrift*, 114(2): 185-205. [With Gissur Ó. Erlingsson and Mikael Persson].
+
+"Why Do Councillors Quit Prematurely? On the Democratic Consequences of Councilors Leaving Their Seats Before the End of Their Terms" (2011), *Lex Localis - Journal of Local Self-government*, 9(4), 297-310. [With Gissur Ó. Erlingsson].
+
+## **Reports, books and book chapters (selection)**
+
+*Fullmäktigeledamoten and mandatperioden* (2017), Stockholm: Swedish Association of Local Authorities and Regions. [With Gissur Ó. Erlingsson]
+
+*A Clean House? Studies of corruption in Sweden* (2016), Lund: Nordic Academic Press. [With Andreas Bergh, Gissur Ó. Erlingsson and Mats Sjölin].
+
+"Tål den svenska modellen att jämföras?: Om utlandssvenskars attityder till välfärdsstaten" (2016), chapter in Maria Solevid (ed.) *Svenska utlandsröster*. Gothenburg: SOM-institute, pp. 211-232. [With Andreas Bergh and Henrik Jordahl].
+
+”Voter Turnout” (2015), chapter in Jon Pierre (ed.) *Oxford Handbook on Swedish Politics*. Oxford: Oxford University Press, pp.229-245. 
+
+*Vilka valde att välja? Deltagandet i valen 2014* (2015). Stockholm: Statistics Sweden. 
+
+*Att ta plats i politiken – om engagemang, aktivism and villkor i kommunpolitiken* (2015), Stockholm: Swedish Association of Local Authorities and Regions. [With Gissur Ó. Erlingsson and Mattias Fogelgren] 
+
+*Hur styrs and granskas kommunala bolag?* (2014), report. Norrköping: Centrum för kommunstrategiska studier. [With Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson and Anna Thomasson].
+
+"Nationella reformer and lokala initiativ" (2013), chapter in Henrik Jordahl (ed.) *Välfärdstjänster i privat regi*. Stockholm: SNS. [With Henrik Jordahl]
+
+*Allmän nytta eller egen vinning? En ESO-rapport om korruption på svenska* (2013), report 2013:2, Expertgruppen för studier i offentlig ekonomi (ESO), Stockholm: Fritzes [With Andreas Bergh, Gissur Ó. Erlingsson and Mats Sjölin].
+
+*Svenskt valdeltagande under hundra år* (2012), report in series Democracy Statistics,  Stockholm: Statistics Sweden. 
+
+“Omvalet – en prövning för den politiska jämlikheten” (2012), chapter in Linda Berg and Henrik Oscarsson (eds.), *Omstritt omval*, Göteborg: Göteborgs universitet. [With Maria Solevid and Mikael Persson].
+
+*Valdeltagande vid omvalen 2011* (2012), report in series Democracy Statistics, Stockholm: Statistics Sweden.
+
+"Regional and lokal tillväxtpolitik. Vad kan and bör offentliga aktörer göra?" (2011), Working paper 2011:28, Myndigheten för tillväxtpolitiska utvärderingar and analyser. [With Gissur Ó. Erlingsson and Jerker Moodysson]
+
+*Politikens villkor. Om engagemang and avhopp i kommunpolitiken* (2010), report 2010:4, Linköping: Centrum för kommunstrategiska studier, Linköping University. [With Gissur Ó. Erlingsson]
+
+*Valdeltagande på valdistriktsnivå* (2009), report, Stockholm: Swedish Association of Local Authorities and Regions.
+	
+*Valdeltagande bland förstagångsväljare* (2009), report, Stockholm: Swedish Association of Local Authorities and Regions.
+	
+*Förtida röstning i Sverige* (2008), Gothenburg: Göteborg University. [With Stefan Dahlberg and Henrik Oscarsson]
+
+”Demokrati”, chapter in Karin E. Lundström et al., *Integration – en beskrivning av läget i Sverige* (2008). Stockholm: Statistics Sweden.
+	
+*Förtroendevalda i kommuner and landsting 2007. En rapport om politikerantal and representativitet* (2008), Stockholm: Statistics Sweden. [With Jessica Persson]
+
+”Invandrade and valdeltagande” (2006), chapter in Hanna Bäck and Mikael Gilljam (eds.), Valets mekanismer, Malmö: Liber.
+
+”Väljare and valda – några avtryck i valstatistiken” (2005), chapter in *Hundre års ensomhet? Norge og Sverige 1905 – 2005*. Oslo: Statistics Norway. [With Mikaela Järnbert and Staffan Sollander]
+
+*Hel- and deltidsarvoderade förtroendevalda* (2004), rapport, Stockholm: Statistics Sweden.
+
+*Det nya seklets förtroendevalda: Om politikerantal and representativitet i kommuner and landsting 2003* (2004), Stockholm: Justitiedepartementet, Kommunförbundet and Landstingsförbundet. [With Hanna Bäck] 
+
+*Ja and nej till euron* (2004), Stockholm: Statistics Sweden. [With Staffan Sollander]
+
+”Det svenska valdeltagandet” (2003), chapter in Joachim Vogel (ed.), *Välfärd and ofärd på 90-talet*, Stockholm: Statistics Sweden. [With Mikaela Järnbert]
+
+
+## **Work in progress**
+
+“Know thy neighbor: the electoral impact of where politicians live”, unpublished manuscript. [With Gissur Ó. Erlingsson].
+
+“The Moldable Young: How Institutions Impact Social Trust”, unpublished manuscript, under review. [With Andreas Bergh].
+
+“The habitual voter: effects of first voting experience”, work in progress.
+
+# OTHER
+
+I have served as a referee for journals such as European Journal of Political Research and Journal of Comparative Policy Analysis. Furthermore, I have presented papers at conferences such as European Group for Public Administration (EGPA), European Consortium for Political Research (ECPR), Political Studies Association (PSA), Midwestern Political Science Association (MPSA) and American Association for Public Opinion Research (AAPOR). I have also served at the editorial board of Statistics Sweden’s magazine Välfärd [Welfare] 2005-2006.
+
+I have experience of using statistical softwares such as SAS, SPSS, Stata and R, and also Python.
+
+# REFERENCES
+
+Available upon request

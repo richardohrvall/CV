@@ -1,0 +1,238 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ro-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Richard Öhrvall
+
+jobtitle: "Doktorand, statsvetenskap, Linköpings universitet"
+jobtitle2: "Forskare, Institutet för Näringslivsforskning (IFN)"
+address: "Vattenledningsvägen 16, 126 33, Hägersten"
+fontawesome: yes
+email: richard.ohrvall@gmail.com
+#github: ryanpeek
+#phone: "+46 708 845 875"
+#twitter: @test
+web: richardohrvall.rbind.io/sv
+
+#select either of these two depending on Swedish or not
+updated: no
+updated_sv: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# UTBILDNING
+
+*Linköpings universitet*, doktorandstudier i statsvetenskap \hfill 2013--2018
+
+*Stockholms universitet*, statistik, kandidatnivå \hfill 2013
+
+*Uppsala universitet*, fil.mag. statsvetenskap \hfill 2002
+
+Olika kurser vid *Lunds universitet, Örebro universitet, Fudan University (Kina), Beijing Language and Cultural School (Kina), University of Michigan (USA)* och olika interna kurser vid *Statistiska centralbyrån (SCB)*.
+
+# ARBETSLIVSERFARENHET
+
+*Linköpings universitet* \hfill 2013--
+
+ > Doktorand i statsvetenskap
+
+*Institutet för Näringslivsforskning* \hfill 2016--
+ 
+ > Forskare
+
+*Statistiska centralbyrån (SCB)* \hfill 2001--
+ 
+ > Ansvarig för valundersökningar, valdeltagandeundersökningar, undersökningar av folkvalda och förtroendevalda, opinionsundersökningar och övriga undersökningar inom demokratiområdet. Arbetsuppgifterna innefattar bland annat undersökningsdesign, frågekonstruktion, urvalsdesign, estimation, analys, rapportskrivande, etc. 
+ 
+ > Redaktör för SCB:s tidskrift Välfärd 2005--2006. 
+ 
+ > Tjänstledig 2006--2007, 2016--
+
+*Institutet för Näringslivsforskning* \hfill 2013--2014	
+ 
+ > Anställd på halvtid inom ramen för forskningsprogrammet "Från välfärdsstat till välfärdssamhälle". 
+
+*Linköpings universitet* \hfill 2013--2014
+ 
+ >	Anställd på halvtid under 4 månader inom ramen för forskningsprojektet ”Styrning av, insyn i och kontroll över kommunala bolag”.
+	
+*Linnéuniversitetet* \hfill 2010--2012	
+ 
+ > Anställd på halvtid inom ramen för forskningsprojektet "Tillit och korruption i lokalpolitiken". 
+
+*Linköpings universitet* \hfill 2009 
+ 
+ > Anställd på halvtid under 4 månader vid Centrum för kommunstrategiska studier (CKS) inom ramen för forskningsprojektet ”Politikens villkor”.
+	
+*Statistiska centralbyrån/Sida* \hfill 2006--2007	
+ 
+ > Arbetade som expert på hushållsundersökningar vid National Institute of Statistics (NIS) i Kambodja. Kontraktstiden varade från mars 2006 till och med juli 2007. Formellt sett anställd av SIPU.
+
+*Uppsala universitet* \hfill 2000--2001
+ 
+ > Olika anställningar vid Statsvetenskapliga institutionen, Uppsala universitet: en månads anställning för att skriva en rapport inom forskningsprojektet ”Demokratins mekanismer”, Timanställd för att bearbeta data inom forskningsprojektet “EU:s återverkningar på nordisk demokrati”, och timanställd för att bearbeta data inom forskningsprojektet  “Coalition Formation in Swedish Local Government”.
+
+# UTLANDSERFARENHET
+
+Långtidsstationerad vid National Institute of Statistics, Kambodja, i egenskap av expert på hushållsundersökningar, mars 2006-– juli 2007.
+
+Kortare konsultuppdrag för SCB/Sidas räkning i Albanien, Armenien, Belgien, Bosnien & Hercegovina, Burundi, Frankrike, Kina, Laos, Mexico och Serbien, 2002-.
+	
+Ansvarig för SCB:s projekt i Armenien och Kina, 2007--2009. 
+
+SCB:s representant i det internationella projektet Metagora, vilket syftade till att ta fram indikatorer för mätning av demokrati, mänskliga rättigheter och governance, 2003-–2008.
+
+# UNDERVISNING
+
+Jag har undervisat i kvantitativa metoder i statsvetenskap på kandidat- och masternivå vid Linköpings universitet sedan 2014. Detta innefattar föreläsningar, seminarier och datasalsövningar. Jag har även hållit i föresläningar på masternivå om visualisering av data vid Uppsala universitet och förvaltning vid Linköpings universitet.  
+
+# PUBLIKATIONER
+
+## **Artiklar med refereegranskning (peer review)**
+
+More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483–500. [Med Andreas Bergh och Günther Fink]
+
+”Att bolagisera kommunal verksamhet. Implikationer för granskning, ansvarsutkrävande och demokrati?” (2016), *Statsvetenskaplig tidskrift*, 117(4): 555-585. [Med Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson och Anna Thomasson].
+
+"Distrust in Utopia? Public Perceptions of Corruption and Political Support in Iceland Before and after the Financial Crisis in 2008" (2016), *Government and Opposition*, 51(4): 553-579. [Med Gissur Ó. Erlingsson och Jonas Linde].
+
+”Not so fair after all? Perceptions of procedural fairness and satisfaction with democracy in the Nordic welfare states” (2014), *International Journal of Public Administration*, 37(2): 106-119. [Med Gissur Ó. Erlingsson och Jonas Linde]. 
+
+”The Single-Issue Party Thesis and the Sweden Democrats” (2014), *Acta Politica*, 49(2): 196-216. [Med  Gissur Ó. Erlingsson och Kåre Vernby].
+
+”Does Election Day Weather Affect Voter Turnout?  Evidence from Swedish Elections” (2014), *Electoral Studies*, 33: 335-342. [Med Mikael Persson och Anders Sundell].
+
+”Voter turnout and political equality: Testing the law of dispersion in a Swedish natural experiment” (2013), *Politics*, 33(3): 172-18. [Med Mikael Persson och Maria Solevid].
+
+”Anti-immigrant parties, local presence and electoral success” (2012), *Local Government Studies*, 38(6): 817-830. [Med Gissur Ó. Erlingsson och Karl Loxbo].
+
+“Den motvilligt engagerade altruisten: Om partimedlemskap och partiaktivism” (2012). *Statsvetenskaplig tidskrift*, 114(2): 185-205. [Med Gissur Ó. Erlingsson och Mikael Persson].
+
+"Why Do Councillors Quit Prematurely? On the Democratic Consequences of Councilors Leaving Their Seats Before the End of Their Terms" (2011), *Lex Localis - Journal of Local Self-government*, 9(4), 297-310. [Med Gissur Ó. Erlingsson].
+
+## **Böcker, bokkapitel och rapporter**
+
+*Fullmäktigeledamoten och mandatperioden* (2017), Stockholm: Sveriges Kommuner och Landsting. [Med Gissur Ó. Erlingsson]
+
+*A Clean House? Studies of corruption in Sweden* (2016), Lund: Nordic Academic Press. [Med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin].
+
+"Tål den svenska modellen att jämföras?: Om utlandssvenskars attityder till välfärdsstaten" (2016), i Maria Solevid (red.) *Svenska utlandsröster*. Göteborg: SOM-institutet, sid. 211-232. [Med Andreas Bergh och Henrik Jordahl].
+
+”Voter Turnout” (2015), kaptiel i Jon Pierre (red.) *Oxford Handbook on Swedish Politics*. Oxford: Oxford University Press, sid.229-245. 
+
+*Vilka valde att välja? Deltagandet i valen 2014* (2015). Stockholm: Statistiska centralbyrån. 
+
+*Att ta plats i politiken – om engagemang, aktivism och villkor i kommunpolitiken* (2015), Stockholm: Sveriges Kommuner och Landsting. [Med Gissur Ó. Erlingsson och Mattias Fogelgren] 
+
+*Hur styrs och granskas kommunala bolag?* (2014), rapport. Norrköping: Centrum för kommunstrategiska studier. [Med Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson och Anna Thomasson].
+
+"Nationella reformer och lokala initiativ" (2013), kapitel i Henrik Jordahl (red.) *Välfärdstjänster i privat regi*. Stockholm: SNS. [Med Henrik Jordahl]
+
+*Allmän nytta eller egen vinning? En ESO-rapport om korruption på svenska* (2013), rapport 2013:2, Expertgruppen för studier i offentlig ekonomi (ESO), Stockholm: Fritzes [Med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin].
+
+*Svenskt valdeltagande under hundra år* (2012), rapport i serien Demokratistatistik,  Stockholm: Statistiska centralbyrån. 
+
+“Omvalet – en prövning för den politiska jämlikheten” (2012), kapitel i Linda Berg och Henrik Oscarsson (red.), *Omstritt omval*, Göteborg: Göteborgs universitet. [Med Maria Solevid och Mikael Persson].
+
+*Valdeltagande vid omvalen 2011* (2012), Stockholm: Statistiska centralbyrån.
+
+"Regional och lokal tillväxtpolitik. Vad kan och bör offentliga aktörer göra?" (2011), Working paper 2011:28, Myndigheten för tillväxtpolitiska utvärderingar och analyser. [Med Gissur Ó. Erlingsson och Jerker Moodysson]
+
+*Politikens villkor. Om engagemang och avhopp i kommunpolitiken* (2010), rapport 2010:4, Linköping: Centrum för kommunstrategiska studier, Linköping universitet. [Med Gissur Ó. Erlingsson]
+
+*Valdeltagande på valdistriktsnivå* (2009), rapport, Stockholm: Sveriges Kommuner och Landsting.
+	
+*Valdeltagande bland förstagångsväljare* (2009), rapport, Stockholm: Sveriges Kommuner och Landsting.
+	
+*Förtida röstning i Sverige* (2008), Göteborg: Göteborgs universitet. [Med Stefan Dahlberg och Henrik Oscarsson]
+
+”Demokrati”, kapitel i Karin E. Lundström m.fl., *Integration – en beskrivning av läget i Sverige* (2008). Stockholm: Statistiska centralbyrån.
+	
+*Förtroendevalda i kommuner och landsting 2007. En rapport om politikerantal och representativitet* (2008), Stockholm: Statistiska centralbyrån. [Med Jessica Persson]
+
+”Invandrade och valdeltagande” (2006), kapitel i Hanna Bäck och Mikael Gilljam (red.), Valets mekanismer, Malmö: Liber.
+
+”Väljare och valda – några avtryck i valstatistiken” (2005), kapitel i *Hundre års ensomhet? Norge og Sverige 1905 – 2005*. Oslo: Statistisk sentralbyrå. [Med Mikaela Järnbert och Staffan Sollander]
+
+*Hel- och deltidsarvoderade förtroendevalda* (2004), rapport, Stockholm: Statistiska centralbyrån.
+
+*Det nya seklets förtroendevalda: Om politikerantal och representativitet i kommuner och landsting 2003* (2004), Stockholm: Justitiedepartementet, Kommunförbundet och Landstingsförbundet. [Med Hanna Bäck] 
+
+*Ja och nej till euron* (2004), Stockholm: Statistiska centralbyrån. [Med Staffan Sollander]
+
+”Det svenska valdeltagandet” (2003), kapitel i Joachim Vogel (red.), *Välfärd och ofärd på 90-talet*, Stockholm: Statistiska centralbyrån. [Med Mikaela Järnbert]
+
+## **Debattartiklar (i urval)**
+
+"Vässa styrningen av kommunala bolag" (med Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson och Anna Thomasson). *Dagens Samhälle*, 27 november 2014.
+
+”Granskaren måste komma utifrån” (med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin), *Balans*, 3 juni 2013.
+
+”Svenskar misstror offentliga tjänstemäns ärlighet” (med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin), *DN Debatt*, 9 april 2013.
+
+## **Övriga artiklar (i urval)**
+"Vad mandatperioden gör med fullmäktigeledamoten: Stärks politiskt självförtroende eller blir man desillusionerad?" (2017), *Surveyjournalen*, 3(1). 
+
+"Privata aktörer inom arbetsförmedling och rehabilitering", *SNS Analys*, nummer 11, Stockholm: SNS, 2013.
+
+”Kommunerna brister i hanteringen av anställdas bisysslor” (med Gissur Ó. Erlingsson), artikel i *Ekonomisk Debatt*, 2013:3.
+
+”Kvinnorna förbi i valdeltagande”, artikel i SCB:s tidskrift *Välfärd*, 2013:1. 
+
+“Fler äldre män bland valda än bland väljare”, artikel i SCB:s tidskrift *Välfärd*, 2012:1. 
+
+“Januaribarn mer framgångsrika” (med Lotta Persson), artikel i SCB:s tidskrift *Välfärd*, 2011:3.
+
+“Partiernas sympatisörer” (med Mikaela Järnbert), artikel i SCB:s tidskrift *Välfärd*, 2010:2.
+
+“Förtida avhopp” (med Gissur Ó. Erlingsson), artikel i SCB:s tidskrift *Välfärd*, 2010:2.
+
+“Få röstar i val till Europaparlamentet” (med Jessica Persson), artikel i SCB:s tidskrift *Välfärd*, 2009:2.
+
+“80-talistkvinnor långt till vänster”, artikel i SCB:s tidskrift *Välfärd*, 2009:1.
+
+“Värdet av en röst”, artikel i SCB:s tidskrift *Välfärd*, 2008:3.
+
+“Tydliga könsmönster i politiken” (med Jessica Persson), artikel i SCB:s tidskrift *Välfärd*, 2008:2. 
+
+“Större tillgänglighet gav fler förtidsröster” (med Stefan Dahlberg och Henrik Oscarsson), artikel i SCB:s tidskrift *Välfärd*, 2007:4. 
+
+“Avhopp i politiken vanligare bland kvinnor”, artikel i SCB:s tidskrift *Välfärd*, 2007:3.
+
+“Allt färre 30- och 40-åringar i politiken”, artikel i SCB:s tidskrift *Välfärd*, 2006:2. 
+
+“Som Ljungby röstar, röstar inte Sverige”, artikel i SCB:s tidskrift *Välfärd*, 2006:1.
+
+“Den glömda generationen – den röda generationen” (med Staffan Sollander), artikel i SCB:s tidskrift *Välfärd*, 2005:4.
+
+“Svenskt valdeltagande bland de lägsta i EU”, artikel i SCB:s tidskrift *Välfärd*, 2005:2.
+
+# STIPENDIER OCH UTMÄRKELSER
+
+Pris för bästa artikel i Statsvetenskaplig tidskrift år 2012 med artikeln ”Den motvilligt engagerade altruisten: Om partimedlemskap och partiaktivism”, skriven tillsammans med Gissur Ó. Erlingsson och Mikael Persson.
+	
+Uppsala kommuns uppsatsstipendium, 2001.
+
+Uppsala universitet, stipendium för studier i Kina, 1999.
+
+
+# ÖVRIGT
+
+Jag har fått artiklar antagna för presentation vid konferenser anordnade av bland andra European Group for Public Administration (EGPA), Political Studies Association (PSA), Midwestern Political Science Association (MPSA) och American Association for Public Opinion Research (AAPOR). Vidare har jag expertgranskat artiklar för olika vetenskapliga tidskrifter, såsom European Journal of Political Research och Journal of Comparative Policy Analysis. Jag har föreläst vid olika seminarier, konferenser och kurser, bland annat var jag under hösten 2012 gästföreläsare vid Uppsala universitets mastersutbildning i statsvetenskap och 2013 vid Örebro universitets sommarkurs Analysis of Survey Data. Sommaren 2013 höll jag en av de inledande föreläsningarna vid det nordiska statistikermötet i Bergen. Under år 2014 hade jag hos Svenska Dagbladet bloggen 312, vilken behandlade val och statistik. Jag är en skribenterna bakom den statsvetenskapliga bloggen Politologerna. Jag är affilierad till Institutet för analytisk sociologi (IAS), vid Linköpings universitet.
+
+Jag har erfarenhet av arbeta med statistikprogrammen SAS, SPSS, Stata och R, samt datorprogrammet Python.
+
+# REFERENSER
+
+Ges vid anmodan.
