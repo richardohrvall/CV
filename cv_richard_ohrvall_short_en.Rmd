@@ -1,0 +1,104 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ro-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Richard Öhrvall
+
+jobtitle: "Researcher, Research Institute of Industrial Economics (IFN)"
+jobtitle2: "Senior advisor, Statistics Sweden"
+address: "Vattenledningsvägen 16, SE-126 33, Hägersten, Sweden"
+fontawesome: yes
+email: richard.ohrvall@gmail.com
+#github: ryanpeek
+#phone: "+46 708 845 875"
+#twitter: @test
+web: richardohrvall.rbind.io/en
+
+#select either of these two depending on Swedish or not
+updated: yes
+#updated_sv: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*Linköping University*, Ph.D. in political science \hfill 2018
+
+*Stockholm University*, statistics, bachelor's level \hfill 2017
+
+*Uppsala universitet*, M.A. in political science \hfill 2002
+
+Different courses at *Lund University, Örebro University, Fudan University (China), Beijing Language and Cultural School (China), University of Michigan (USA)* and internal courses at *Statistics Sweden*.
+
+
+# EMPLOYMENT
+
+*Research Institute of Industrial Economics* \hfill 2016--
+ 
+ > Researcher
+
+*Statistics Sweden* \hfill 2001--
+ 
+ > Senior advisor, responsible for the Swedish National Election Studies (SNES), the Swedish Electoral Participation Survey, the Study of Nominated and Elected Candidates, and The Survey of Elected Representatives in Municipalities and County Councils, 
+ 
+ > Editor of Statistics Sweden's journal *Välfärd* [Welfare] 2005--2006. 
+ 
+ > On leave 2006--2007, 2016--2018
+
+*Linköping Universitet* \hfill 2013--2018
+
+ > PhD student in political science
+
+*Research Institute of Industrial Economics* \hfill 2013--2014	
+ 
+ > Researcher, the research project ”From Welfare State to Welfare Society”. 
+
+*Linköping university* \hfill 2013--2014
+ 
+ >	Researcher, research project on municipal corporations.
+	
+*Linnaeus University* \hfill 2010--2012	
+ 
+ > Researcher, research project on trust and corruption in local politics.
+
+*Linköping University* \hfill 2009 
+ 
+ > Researcher, research project on local politicians. 
+	
+*Statistics Sweden/Sida* \hfill 2006--2007	
+ 
+ > Expert on household surveys at National Institute of Statistics (NIS) in Cambodia, as part of a project founded by Sida. 
+
+*Uppsala University* \hfill 2000--2001
+ 
+ > Research assistant at Department of Government, Uppsala University, in the research projects ”Mechanisms of Democracy”, “Effects of EU On Nordic Democracies” , and  “Coalition Formation in Swedish Local Government”.
+
+# INTERNATIONAL EXPERIENCE
+
+Long-term advisor, at National Institute of Statistics (NIS), Cambodia, serving as an expert on household surveys, 2006–-2007.
+
+Consultancy missions on behalf of Statistics Sweden and the Swedish International Cooperation Agency (Sida) in countries such as Albania, Armenia, Belgium, Bosnia & Herzegovina, Burundi, France, China, Laos, Mexico and Serbia, 2002–-2015. 
+	
+Project manager for Statistics Sweden’s projects in Armenia and China, 2007–-2009. 
+
+Statistics Sweden’s representative in the international project Metagora, under OECD and with the purpose of creating indicators to measure democracy, human rights and governance, 2003–-2008. 
+
+# TEACHING
+
+I have been teaching quantitative methods at B.A and M.A level at Linköping University since 2014, including lectures, seminars and computer labs. I have also held lectures (M.A. level) on visualization of data at Uppsala University and on quality of government at Linköping University. 
+
+# PUBLICATIONS
+
+I have written 11 articles published in scientic journals with peer review, and also several reports, books and book chapters. For a list of publications, see [my website](https://richardohrvall.rbind.io/en/publication/).
+
