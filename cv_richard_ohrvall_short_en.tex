@@ -1,0 +1,244 @@
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+%\renewenvironment{itemize}{
+%  \begin{list}{}{
+%    \setlength{\leftmargin}{1.5em}
+%  }
+%}{
+%  \end{list}
+%}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+  
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Richard Öhrvall - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Richard Öhrvall:  CV (Curriculum Vitae)},
+            pdfauthor={Richard Öhrvall},
+            pdfkeywords={RMarkdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Richard Öhrvall}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Researcher, Research Institute of Industrial Economics (IFN)}
+\moveleft.5\hoffset\centerline{Senior advisor, Statistics Sweden}
+\moveleft.5\hoffset\centerline{Vattenledningsvägen 16, SE-126 33, Hägersten, Sweden}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:richard.ohrvall@gmail.com}{\nolinkurl{richard.ohrvall@gmail.com}}} \hspace{1 mm}     \faGlobe \hspace{1 mm} \href{https://richardohrvall.rbind.io/en}{\tt richardohrvall.rbind.io/en}    | \emph{Uppdated:} \today  }
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{EDUCATION}\label{education}}
+
+\emph{Linköping University}, Ph.D.~in political science \hfill 2018
+
+\emph{Stockholm University}, statistics, bachelor's level \hfill 2017
+
+\emph{Uppsala universitet}, M.A.~in political science \hfill 2002
+
+Different courses at \emph{Lund University, Örebro University, Fudan
+University (China), Beijing Language and Cultural School (China),
+University of Michigan (USA)} and internal courses at \emph{Statistics
+Sweden}.
+
+\hypertarget{employment}{%
+\section{EMPLOYMENT}\label{employment}}
+
+\emph{Research Institute of Industrial Economics} \hfill 2016--
+
+\begin{quote}
+Researcher
+\end{quote}
+
+\emph{Statistics Sweden} \hfill 2001--
+
+\begin{quote}
+Senior advisor, responsible for the Swedish National Election Studies
+(SNES), the Swedish Electoral Participation Survey, the Study of
+Nominated and Elected Candidates, and The Survey of Elected
+Representatives in Municipalities and County Councils,
+\end{quote}
+
+\begin{quote}
+Editor of Statistics Sweden's journal \emph{Välfärd} {[}Welfare{]}
+2005--2006.
+\end{quote}
+
+\begin{quote}
+On leave 2006--2007, 2016--2018
+\end{quote}
+
+\emph{Linköping Universitet} \hfill 2013--2018
+
+\begin{quote}
+PhD student in political science
+\end{quote}
+
+\emph{Research Institute of Industrial Economics} \hfill 2013--2014
+
+\begin{quote}
+Researcher, the research project ''From Welfare State to Welfare
+Society''.
+\end{quote}
+
+\emph{Linköping university} \hfill 2013--2014
+
+\begin{quote}
+Researcher, research project on municipal corporations.
+\end{quote}
+
+\emph{Linnaeus University} \hfill 2010--2012
+
+\begin{quote}
+Researcher, research project on trust and corruption in local politics.
+\end{quote}
+
+\emph{Linköping University} \hfill 2009
+
+\begin{quote}
+Researcher, research project on local politicians.
+\end{quote}
+
+\emph{Statistics Sweden/Sida} \hfill 2006--2007
+
+\begin{quote}
+Expert on household surveys at National Institute of Statistics (NIS) in
+Cambodia, as part of a project founded by Sida.
+\end{quote}
+
+\emph{Uppsala University} \hfill 2000--2001
+
+\begin{quote}
+Research assistant at Department of Government, Uppsala University, in
+the research projects ''Mechanisms of Democracy'', ``Effects of EU On
+Nordic Democracies'' , and ``Coalition Formation in Swedish Local
+Government''.
+\end{quote}
+
+\hypertarget{international-experience}{%
+\section{INTERNATIONAL EXPERIENCE}\label{international-experience}}
+
+Long-term advisor, at National Institute of Statistics (NIS), Cambodia,
+serving as an expert on household surveys, 2006---2007.
+
+Consultancy missions on behalf of Statistics Sweden and the Swedish
+International Cooperation Agency (Sida) in countries such as Albania,
+Armenia, Belgium, Bosnia \& Herzegovina, Burundi, France, China, Laos,
+Mexico and Serbia, 2002---2015.
+
+Project manager for Statistics Sweden's projects in Armenia and China,
+2007---2009.
+
+Statistics Sweden's representative in the international project
+Metagora, under OECD and with the purpose of creating indicators to
+measure democracy, human rights and governance, 2003---2008.
+
+\hypertarget{teaching}{%
+\section{TEACHING}\label{teaching}}
+
+I have been teaching quantitative methods at B.A and M.A level at
+Linköping University since 2014, including lectures, seminars and
+computer labs. I have also held lectures (M.A.~level) on visualization
+of data at Uppsala University and on quality of government at Linköping
+University.
+
+\hypertarget{publications}{%
+\section{PUBLICATIONS}\label{publications}}
+
+I have written 11 articles published in scientic journals with peer
+review, and also several reports, books and book chapters. For a list of
+publications, see
+\href{https://richardohrvall.rbind.io/en/publication/}{my website}.
+
+\end{document}

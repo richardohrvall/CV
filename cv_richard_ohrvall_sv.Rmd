@@ -8,13 +8,9 @@ geometry: margin=1in
 title: "CV"
 author: Richard Öhrvall
 
-<<<<<<< HEAD
 jobtitle: "Postdok, Centrum för kommunstrategiska studier, Linköpings universitet"
 jobtitle2: "Affilierad forskare, Institutet för Näringslivsforskning (IFN)"
-=======
-jobtitle: "Doktorand, statsvetenskap, Linköpings universitet"
-jobtitle2: "Forskare, Institutet för Näringslivsforskning (IFN)"
->>>>>>> master
+
 address: "Vattenledningsvägen 16, 126 33, Hägersten"
 fontawesome: yes
 email: richard.ohrvall@gmail.com
@@ -48,7 +44,6 @@ Olika kurser vid *Lunds universitet, Örebro universitet, Fudan University (Kina
 
 # ARBETSLIVSERFARENHET
 
-<<<<<<< HEAD
 *Centrum för kommunstrategiska studier, Linköpings universitet* \hfill 2019--2021
 
  > Postdok
@@ -58,14 +53,7 @@ Olika kurser vid *Lunds universitet, Örebro universitet, Fudan University (Kina
  > Doktorand i statsvetenskap
 
 *Institutet för Näringslivsforskning* \hfill 2016--2018
-=======
-*Linköpings universitet* \hfill 2013--
 
- > Doktorand i statsvetenskap
-
-*Institutet för Näringslivsforskning* \hfill 2016--
->>>>>>> master
- 
  > Forskare
 
 *Statistiska centralbyrån (SCB)* \hfill 2001--
@@ -74,11 +62,7 @@ Olika kurser vid *Lunds universitet, Örebro universitet, Fudan University (Kina
  
  > Redaktör för SCB:s tidskrift Välfärd 2005--2006. 
  
-<<<<<<< HEAD
  > Tjänstledig 2006--2007, 2016--2018, 2019--2021.
-=======
- > Tjänstledig 2006--2007, 2016--
->>>>>>> master
 
 *Institutet för Näringslivsforskning* \hfill 2013--2014	
  
@@ -116,23 +100,16 @@ SCB:s representant i det internationella projektet Metagora, vilket syftade till
 
 # UNDERVISNING
 
-<<<<<<< HEAD
 Jag har undervisat i kvantitativa metoder i statsvetenskap på kandidat- och masternivå vid Linköpings universitet sedan 2014. Detta innefattar föreläsningar, seminarier och datasalsövningar. Jag har även hållit i föreläsningar på masternivå om visualisering av data vid Uppsala universitet och om offentlig förvaltning vid Linköpings universitet.  
-=======
-Jag har undervisat i kvantitativa metoder i statsvetenskap på kandidat- och masternivå vid Linköpings universitet sedan 2014. Detta innefattar föreläsningar, seminarier och datasalsövningar. Jag har även hållit i föresläningar på masternivå om visualisering av data vid Uppsala universitet och förvaltning vid Linköpings universitet.  
->>>>>>> master
 
 # PUBLIKATIONER
 
 ## **Artiklar med refereegranskning (peer review)**
 
-<<<<<<< HEAD
 "A sticky trait: Social trust among Swedish expatriates in countries with varying institutional quality" (2018), *Journal of Comparative Economics*, 46(4): 1146-1157. [Med Andreas Bergh]
 
 "Vad mandatperioden gör med fullmäktigeledamoten: Stärks politiskt självförtroende eller blir man desillusionerad?" (2017), *Surveyjournalen*, 3(1). [Med Gissur Ó. Erlingsson]
 
-=======
->>>>>>> master
 More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483–500. [Med Andreas Bergh och Günther Fink]
 
 ”Att bolagisera kommunal verksamhet. Implikationer för granskning, ansvarsutkrävande och demokrati?” (2016), *Statsvetenskaplig tidskrift*, 117(4): 555-585. [Med Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson och Anna Thomasson].
@@ -155,13 +132,10 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 
 ## **Böcker, bokkapitel och rapporter**
 
-<<<<<<< HEAD
 *Growing into Voting: Election Turnout among Young People and Habit Formation* (2018), avhandling i statsvetenskap, Linköpings universitet.
 
 ”Issues On Transparency, Accountability and Control in Hybrid Organisations: The Case of Enterprises Owned by Local Government” (2018), i Andrea Bonomi Savignon, Luca Gnan, Alessandro Hinna och Fabio Monteduro (red.) *Hybridity in the Governance and Delivery of Public Services*, Emerald Publishing. [Med Gissur Ó. Erlingsson och Anna Thomasson].
 
-=======
->>>>>>> master
 *Fullmäktigeledamoten och mandatperioden* (2017), Stockholm: Sveriges Kommuner och Landsting. [Med Gissur Ó. Erlingsson]
 
 *A Clean House? Studies of corruption in Sweden* (2016), Lund: Nordic Academic Press. [Med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin].
@@ -221,14 +195,7 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 ”Svenskar misstror offentliga tjänstemäns ärlighet” [Med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin], *DN Debatt*, 9 april 2013.
 
 ## **Working papers och övriga artiklar (i urval)**
-<<<<<<< HEAD
 "Voices from the far right: a text analysis of Swedish parliamentary debates", working paper, SocArxiv, (under review) [Med Måns Magnusson, Katarina Barrling och David Mimno]
-=======
-
-"Vad mandatperioden gör med fullmäktigeledamoten: Stärks politiskt självförtroende eller blir man desillusionerad?" (2017), *Surveyjournalen*, 3(1). [Med Gissur Ó. Erlingsson]
-
-“The Moldable Young: How Institutions Impact Social Trust”, IFN working paper no. 1132, under granskning [Med Andreas Bergh].
->>>>>>> master
 
 "Privata aktörer inom arbetsförmedling och rehabilitering", *SNS Analys*, nummer 11, Stockholm: SNS, 2013.
 
