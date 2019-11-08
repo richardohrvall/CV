@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Richard Öhrvall
 
-jobtitle: "Postdok, Centrum för kommunstrategiska studier, Linköpings universitet"
+jobtitle: "Postdoktor, Centrum för kommunstrategiska studier, Linköpings universitet"
 jobtitle2: "Affilierad forskare, Institutet för Näringslivsforskning (IFN)"
 
 address: "Vattenledningsvägen 16, 126 33, Hägersten"
@@ -20,7 +20,7 @@ email: richard.ohrvall@gmail.com
 web: richardohrvall.rbind.io/sv
 
 #select either of these two depending on Swedish or not
-updated: no
+#cupdated: yes
 updated_sv: yes
 
 keywords: RMarkdown, academic CV, template
@@ -34,11 +34,11 @@ urlcolor: blue
 
 # UTBILDNING
 
-*Linköpings universitet*, doktorandstudier i statsvetenskap \hfill 2013--2018
+*Linköpings universitet*, doktor i statsvetenskap \hfill 2018
 
-*Stockholms universitet*, statistik, kandidatnivå \hfill 2013
+*Stockholms universitet*, fil. kand i statistik \hfill 2013
 
-*Uppsala universitet*, fil.mag. statsvetenskap \hfill 2002
+*Uppsala universitet*, fil.mag. i statsvetenskap \hfill 2002
 
 Olika kurser vid *Lunds universitet, Örebro universitet, Fudan University (Kina), Beijing Language and Cultural School (Kina), University of Michigan (USA)* och olika interna kurser vid *Statistiska centralbyrån (SCB)*.
 
@@ -46,7 +46,7 @@ Olika kurser vid *Lunds universitet, Örebro universitet, Fudan University (Kina
 
 *Centrum för kommunstrategiska studier, Linköpings universitet* \hfill 2019--2021
 
- > Postdok
+ > Postdoktor
 
 *Linköpings universitet* \hfill 2013--2018
 
@@ -100,11 +100,13 @@ SCB:s representant i det internationella projektet Metagora, vilket syftade till
 
 # UNDERVISNING
 
-Jag har undervisat i kvantitativa metoder i statsvetenskap på kandidat- och masternivå vid Linköpings universitet sedan 2014. Detta innefattar föreläsningar, seminarier och datasalsövningar. Jag har även hållit i föreläsningar på masternivå om visualisering av data vid Uppsala universitet och om offentlig förvaltning vid Linköpings universitet.  
+Jag har undervisat i kvantitativa metoder i statsvetenskap på kandidat- och masternivå vid Linköpings universitet sedan 2014. Detta innefattar föreläsningar, seminarier och datasalsövningar. Jag har även handlett kandidatuppsatser i statsvetenskap och hållit i föreläsningar på masternivå om visualisering av data vid Uppsala universitet och om offentlig förvaltning vid Linköpings universitet.  
 
 # PUBLIKATIONER
 
 ## **Artiklar med refereegranskning (peer review)**
+
+"Practice makes voters? Effects of student mock elections on turnout" (2019), *Politics*, online first. [Med Sven Oskarsson]
 
 "A sticky trait: Social trust among Swedish expatriates in countries with varying institutional quality" (2018), *Journal of Comparative Economics*, 46(4): 1146-1157. [Med Andreas Bergh]
 
@@ -132,7 +134,7 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 
 ## **Böcker, bokkapitel och rapporter**
 
-*Growing into Voting: Election Turnout among Young People and Habit Formation* (2018), avhandling i statsvetenskap, Linköpings universitet.
+*Growing into Voting: Election Turnout among Young People and Habit Formation* (2018), doktorsavhandling i statsvetenskap, Linköpings universitet.
 
 ”Issues On Transparency, Accountability and Control in Hybrid Organisations: The Case of Enterprises Owned by Local Government” (2018), i Andrea Bonomi Savignon, Luca Gnan, Alessandro Hinna och Fabio Monteduro (red.) *Hybridity in the Governance and Delivery of Public Services*, Emerald Publishing. [Med Gissur Ó. Erlingsson och Anna Thomasson].
 
@@ -242,7 +244,9 @@ Uppsala universitet, stipendium för studier i Kina, 1999.
 
 # ÖVRIGT
 
-Jag har fått artiklar antagna för presentation vid konferenser anordnade av bland andra European Group for Public Administration (EGPA), Political Studies Association (PSA), Midwestern Political Science Association (MPSA) och American Association for Public Opinion Research (AAPOR). Vidare har jag expertgranskat artiklar för olika vetenskapliga tidskrifter, såsom European Journal of Political Research och Journal of Comparative Policy Analysis. Jag har föreläst vid olika seminarier, konferenser och kurser, bland annat var jag under hösten 2012 gästföreläsare vid Uppsala universitets mastersutbildning i statsvetenskap och 2013 vid Örebro universitets sommarkurs Analysis of Survey Data. Sommaren 2013 höll jag en av de inledande föreläsningarna vid det nordiska statistikermötet i Bergen. Under år 2014 hade jag hos Svenska Dagbladet bloggen 312, vilken behandlade val och statistik. Jag är en skribenterna bakom den statsvetenskapliga bloggen Politologerna. Jag är affilierad till Institutet för analytisk sociologi (IAS), vid Linköpings universitet.
+Jag har fått artiklar antagna för presentation vid konferenser anordnade av bland andra European Group for Public Administration (EGPA), Political Studies Association (PSA), Midwestern Political Science Association (MPSA) och American Association for Public Opinion Research (AAPOR). Vidare har jag expertgranskat artiklar för olika vetenskapliga tidskrifter, såsom European Journal of Political Research, Journal of Comparative Policy Analysis, Journal of Politics och Local Government Studies. Jag har föreläst vid olika seminarier, konferenser och kurser, bland annat var jag under hösten 2012 gästföreläsare vid Uppsala universitets mastersutbildning i statsvetenskap och 2013 vid Örebro universitets sommarkurs Analysis of Survey Data. Sommaren 2013 höll jag en av de inledande föreläsningarna vid det nordiska statistikermötet i Bergen. Under år 2014 hade jag hos Svenska Dagbladet bloggen 312, vilken behandlade val och statistik. Valåret 2018 arbetade jag åt SVT med rådgivning i konstruktionen av valkompasser och som expertkommentator i den nationella valvaka i SVT2 som tog upp regionala och kommunala resultat.
+
+Tillsammans med ett antal ytterligare statsvetare ligger jag bakom den forskarbloggen Politologerna. Jag är affilierad till Institutet för analytisk sociologi (IAS), vid Linköpings universitet.
 
 Jag har erfarenhet av arbeta med statistikprogrammen SAS, SPSS, Stata och R, samt datorprogrammet Python.
 

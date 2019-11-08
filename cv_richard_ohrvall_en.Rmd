@@ -8,14 +8,9 @@ geometry: margin=1in
 title: "CV"
 author: Richard Öhrvall
 
-<<<<<<< HEAD
 jobtitle: "Postdoc, Centre for Municipal Studies, Linköping University"
 jobtitle2: "Affiliated researcher, Research Institute of Industrial Economics (IFN)"
 
-=======
-jobtitle: "PhD Candidate, Political Science, Linköping University"
-jobtitle2: "Researcher, Research Institute of Industrial Economics (IFN)"
->>>>>>> master
 address: "Vattenledningsvägen 16, SE-126 33, Hägersten, Sweden"
 fontawesome: yes
 email: richard.ohrvall@gmail.com
@@ -39,15 +34,9 @@ urlcolor: blue
 
 # EDUCATION
 
-<<<<<<< HEAD
 *Linköping University*, Ph.D. in political science \hfill 2018
 
-*Stockholm University*, statistics, bachelor's level \hfill 2017
-=======
-*Linköping University*, PhD student in political science \hfill 2013--2018
-
-*Stockholm University*, statistics, bachelor's level \hfill 2013
->>>>>>> master
+*Stockholm University*, B.A. in statistics \hfill 2017
 
 *Uppsala universitet*, M.A. in political science \hfill 2002
 
@@ -55,8 +44,6 @@ Different courses at *Lund University, Örebro University, Fudan University (Chi
 
 
 # EMPLOYMENT
-<<<<<<< HEAD
-
 *Centre for Municipal Studies, Linköping University* \hfill 2019--2021
 
  > Postdoc
@@ -66,14 +53,7 @@ Different courses at *Lund University, Örebro University, Fudan University (Chi
  > Ph.D. student in political science. 
 
 *Research Institute of Industrial Economics* \hfill 2016--2018
-=======
-*Linköping Universitet* \hfill 2013--
 
- > PhD student in political science
-
-*Research Institute of Industrial Economics* \hfill 2016--
->>>>>>> master
- 
  > Researcher
 
 *Statistics Sweden* \hfill 2001--
@@ -82,22 +62,14 @@ Different courses at *Lund University, Örebro University, Fudan University (Chi
  
  > Editor of Statistics Sweden's journal *Välfärd* [Welfare] 2005--2006. 
  
-<<<<<<< HEAD
  > On leave 2006--2007, 2016--2018, 2019--
-=======
- > On leave 2006--2007, 2016--
->>>>>>> master
 
 *Research Institute of Industrial Economics* \hfill 2013--2014	
  
  > Researcher, the research project ”From Welfare State to Welfare Society”. 
 
-<<<<<<< HEAD
 *Linköping University* \hfill 2013--2014
-=======
-*Linköping university* \hfill 2013--2014
->>>>>>> master
- 
+
  >	Researcher, research project on municipal corporations.
 	
 *Linnaeus University* \hfill 2010--2012	
@@ -128,23 +100,19 @@ Statistics Sweden’s representative in the international project Metagora, unde
 
 # TEACHING
 
-<<<<<<< HEAD
-I have been teaching quantitative methods at B.A and M.A level at Linköping University since 2014, including lectures, seminars and computer labs. I have also held lectures (M.A. level) on visualization of data at Uppsala University and on quality of government at Linköping University. 
-=======
-I have been teaching quantitative methods at B.A and M.A level at Linköping University since 2014,  including lectures, seminars and computer labs. I have also held lectures (M.A. level) on visualization of data at Uppsala University and on quality of government at Linköping University. 
->>>>>>> master
+I have been teaching quantitative methods at bachelor and master at Linköping University since 2014, including lectures, seminars and computer labs. I have also supervised bachelor theses in political science at Linköping University, and held lectures (M.A. level) on visualisation of data at Uppsala University and on quality of government at Linköping University. 
 
 # PUBLICATIONS
 
 ## **Articles in refereed journals**
 
-<<<<<<< HEAD
+"Practice makes voters? Effects of student mock elections on turnout" (2019), *Politics*, online first. [With Sven Oskarsson]
+
 "A sticky trait: Social trust among Swedish expatriates in countries with varying institutional quality" (2018), *Journal of Comparative Economics*, 46(4): 1146-1157. [With Andreas Bergh]
 
 More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483-500. [With Andreas Bergh and Günther Fink]
-=======
-More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483–500. [With Andreas Bergh and Günther Fink]
->>>>>>> master
+
+"Vad mandatperioden gör med fullmäktigeledamoten: Stärks politiskt självförtroende eller blir man desillusionerad?" (2017), *Surveyjournalen*, 3(1). [With Gissur Ó. Erlingsson]
 
 ”Att bolagisera kommunal verksamhet. Implikationer för granskning, ansvarsutkrävande and demokrati?” (2016), *Statsvetenskaplig tidskrift*, 117(4): 555-585. [With Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson and Anna Thomasson].
 
@@ -166,13 +134,10 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 
 ## **Reports, books and book chapters (selection)**
 
-<<<<<<< HEAD
-*Growing into Voting: Election Turnout among Young People and Habit Formation* (2018), Ph.D disserationa, Linköping University.
+*Growing into Voting: Election Turnout among Young People and Habit Formation* (2018), Ph.D dissertation, Linköping University.
 
 ”Issues On Transparency, Accountability and Control in Hybrid Organisations: The Case of Enterprises Owned by Local Government” (2018), chapter in Andrea Bonomi Savignon, Luca Gnan, Alessandro Hinna and Fabio Monteduro (Eds.) *Hybridity in the Governance and Delivery of Public Services*, Emerald Publishing. [With Gissur Ó. Erlingsson and Anna Thomasson].
 
-=======
->>>>>>> master
 *Fullmäktigeledamoten and mandatperioden* (2017), Stockholm: Swedish Association of Local Authorities and Regions. [With Gissur Ó. Erlingsson]
 
 *A Clean House? Studies of corruption in Sweden* (2016), Lund: Nordic Academic Press. [With Andreas Bergh, Gissur Ó. Erlingsson and Mats Sjölin].
@@ -211,7 +176,7 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 	
 *Förtroendevalda i kommuner and landsting 2007. En rapport om politikerantal and representativitet* (2008), Stockholm: Statistics Sweden. [With Jessica Persson]
 
-”Invandrade and valdeltagande” (2006), chapter in Hanna Bäck and Mikael Gilljam (eds.), Valets mekanismer, Malmö: Liber.
+”Invandrade and valdeltagande” (2006), chapter in Hanna Bäck and Mikael Gilljam (eds.), *Valets mekanismer*, Malmö: Liber.
 
 ”Väljare and valda – några avtryck i valstatistiken” (2005), chapter in *Hundre års ensomhet? Norge og Sverige 1905 – 2005*. Oslo: Statistics Norway. [With Mikaela Järnbert and Staffan Sollander]
 
@@ -226,29 +191,16 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 
 ## **Work in progress**
 
-<<<<<<< HEAD
 "Voices from the far right: a text analysis of Swedish parliamentary debates", working paper, SocArxiv, (under revision)[With Måns Magnusson, Katarina Barrling and David Mimno]
 
 “Know thy neighbor: the electoral impact of where politicians live”, unpublished manuscript. [With Gissur Ó. Erlingsson].
 
-=======
-“Know thy neighbor: the electoral impact of where politicians live”, unpublished manuscript. [With Gissur Ó. Erlingsson].
-
-“The Moldable Young: How Institutions Impact Social Trust”, IFN working paper no. 1132, under review. [With Andreas Bergh].
-
-“The habitual voter: effects of the first voting experience”, work in progress.
-
->>>>>>> master
 # OTHER
 
-I have served as a referee for journals such as European Journal of Political Research and Journal of Comparative Policy Analysis. Furthermore, I have presented papers at conferences such as European Group for Public Administration (EGPA), European Consortium for Political Research (ECPR), Political Studies Association (PSA), Midwestern Political Science Association (MPSA) and American Association for Public Opinion Research (AAPOR). I have also served at the editorial board of Statistics Sweden’s magazine Välfärd [Welfare] 2005-2006.
+I have served as a referee for journals such as European Journal of Political Research, Journal of Politics, Journal of Comparative Policy Analysis, and Local Government Studies. Furthermore, I have presented papers at conferences such as European Group for Public Administration (EGPA), European Consortium for Political Research (ECPR), Political Studies Association (PSA), Midwestern Political Science Association (MPSA) and American Association for Public Opinion Research (AAPOR). I have also served at the editorial board of Statistics Sweden’s magazine Välfärd [Welfare] 2005-2006.
 
 I have experience of using statistical softwares such as SAS, SPSS, Stata and R, and also Python.
 
 # REFERENCES
 
-<<<<<<< HEAD
 Available upon request.
-=======
-Available upon request
->>>>>>> master
