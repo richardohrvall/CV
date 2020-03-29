@@ -34,9 +34,9 @@ urlcolor: blue
 
 # UTBILDNING
 
-*Linköpings universitet*, doktor i statsvetenskap \hfill 2018
+*Linköpings universitet*, fil. dr i statsvetenskap \hfill 2018
 
-*Stockholms universitet*, fil. kand i statistik \hfill 2013
+*Stockholms universitet*, fil. kand. i statistik \hfill 2013
 
 *Uppsala universitet*, fil.mag. i statsvetenskap \hfill 2002
 
@@ -106,31 +106,33 @@ Jag har undervisat i kvantitativa metoder i statsvetenskap på kandidat- och mas
 
 ## **Artiklar med refereegranskning (peer review)**
 
+"Birth Order and Voter Turnout" (kommande), *British Journal of Political Science*, [Med Bernt Bratsberg, Christopher T. Dawes, Andreas Kotsadam, Karl-Oskar Lindgren, Sven Oskarsson and Oddbjørn Raaum]
+
 "Practice makes voters? Effects of student mock elections on turnout" (2019), *Politics*, online first. [Med Sven Oskarsson]
 
-"A sticky trait: Social trust among Swedish expatriates in countries with varying institutional quality" (2018), *Journal of Comparative Economics*, 46(4): 1146-1157. [Med Andreas Bergh]
+"A sticky trait: Social trust among Swedish expatriates in countries with varying institutional quality" (2018), *Journal of Comparative Economics*, 46(4): 1146--1157. [Med Andreas Bergh]
 
 "Vad mandatperioden gör med fullmäktigeledamoten: Stärks politiskt självförtroende eller blir man desillusionerad?" (2017), *Surveyjournalen*, 3(1). [Med Gissur Ó. Erlingsson]
 
-More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483–500. [Med Andreas Bergh och Günther Fink]
+More politicians, more corruption: evidence from Swedish municipalities (2017), *Public Choice*, 172(3-4): 483–-500. [Med Andreas Bergh och Günther Fink]
 
-”Att bolagisera kommunal verksamhet. Implikationer för granskning, ansvarsutkrävande och demokrati?” (2016), *Statsvetenskaplig tidskrift*, 117(4): 555-585. [Med Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson och Anna Thomasson].
+”Att bolagisera kommunal verksamhet. Implikationer för granskning, ansvarsutkrävande och demokrati?” (2016), *Statsvetenskaplig tidskrift*, 117(4): 555--585. [Med Gissur Ó. Erlingsson, Mattias Fogelgren, Fredrik Olsson och Anna Thomasson].
 
-"Distrust in Utopia? Public Perceptions of Corruption and Political Support in Iceland Before and after the Financial Crisis in 2008" (2016), *Government and Opposition*, 51(4): 553-579. [Med Gissur Ó. Erlingsson och Jonas Linde].
+"Distrust in Utopia? Public Perceptions of Corruption and Political Support in Iceland Before and after the Financial Crisis in 2008" (2016), *Government and Opposition*, 51(4): 553--579. [Med Gissur Ó. Erlingsson och Jonas Linde].
 
-”Not so fair after all? Perceptions of procedural fairness and satisfaction with democracy in the Nordic welfare states” (2014), *International Journal of Public Administration*, 37(2): 106-119. [Med Gissur Ó. Erlingsson och Jonas Linde]. 
+”Not so fair after all? Perceptions of procedural fairness and satisfaction with democracy in the Nordic welfare states” (2014), *International Journal of Public Administration*, 37(2): 106--119. [Med Gissur Ó. Erlingsson och Jonas Linde]. 
 
-”The Single-Issue Party Thesis and the Sweden Democrats” (2014), *Acta Politica*, 49(2): 196-216. [Med  Gissur Ó. Erlingsson och Kåre Vernby].
+”The Single-Issue Party Thesis and the Sweden Democrats” (2014), *Acta Politica*, 49(2): 196--216. [Med  Gissur Ó. Erlingsson och Kåre Vernby].
 
-”Does Election Day Weather Affect Voter Turnout?  Evidence from Swedish Elections” (2014), *Electoral Studies*, 33: 335-342. [Med Mikael Persson och Anders Sundell].
+”Does Election Day Weather Affect Voter Turnout?  Evidence from Swedish Elections” (2014), *Electoral Studies*, 33: 335--342. [Med Mikael Persson och Anders Sundell].
 
-”Voter turnout and political equality: Testing the law of dispersion in a Swedish natural experiment” (2013), *Politics*, 33(3): 172-18. [Med Mikael Persson och Maria Solevid].
+”Voter turnout and political equality: Testing the law of dispersion in a Swedish natural experiment” (2013), *Politics*, 33(3): 172--184. [Med Mikael Persson och Maria Solevid].
 
-”Anti-immigrant parties, local presence and electoral success” (2012), *Local Government Studies*, 38(6): 817-830. [Med Gissur Ó. Erlingsson och Karl Loxbo].
+”Anti-immigrant parties, local presence and electoral success” (2012), *Local Government Studies*, 38(6): 817--830. [Med Gissur Ó. Erlingsson och Karl Loxbo].
 
-“Den motvilligt engagerade altruisten: Om partimedlemskap och partiaktivism” (2012). *Statsvetenskaplig tidskrift*, 114(2): 185-205. [Med Gissur Ó. Erlingsson och Mikael Persson].
+“Den motvilligt engagerade altruisten: Om partimedlemskap och partiaktivism” (2012). *Statsvetenskaplig tidskrift*, 114(2): 185--205. [Med Gissur Ó. Erlingsson och Mikael Persson].
 
-"Why Do Councillors Quit Prematurely? On the Democratic Consequences of Councilors Leaving Their Seats Before the End of Their Terms" (2011), *Lex Localis - Journal of Local Self-government*, 9(4), 297-310. [Med Gissur Ó. Erlingsson].
+"Why Do Councillors Quit Prematurely? On the Democratic Consequences of Councilors Leaving Their Seats Before the End of Their Terms" (2011), *Lex Localis - Journal of Local Self-government*, 9(4), 297--310. [Med Gissur Ó. Erlingsson].
 
 ## **Böcker, bokkapitel och rapporter**
 
@@ -142,9 +144,9 @@ More politicians, more corruption: evidence from Swedish municipalities (2017), 
 
 *A Clean House? Studies of corruption in Sweden* (2016), Lund: Nordic Academic Press. [Med Andreas Bergh, Gissur Ó. Erlingsson och Mats Sjölin].
 
-"Tål den svenska modellen att jämföras?: Om utlandssvenskars attityder till välfärdsstaten" (2016), i Maria Solevid (red.) *Svenska utlandsröster*. Göteborg: SOM-institutet, sid. 211-232. [Med Andreas Bergh och Henrik Jordahl].
+"Tål den svenska modellen att jämföras?: Om utlandssvenskars attityder till välfärdsstaten" (2016), i Maria Solevid (red.) *Svenska utlandsröster*. Göteborg: SOM-institutet, sid. 211--232. [Med Andreas Bergh och Henrik Jordahl].
 
-”Voter Turnout” (2015), kaptiel i Jon Pierre (red.) *Oxford Handbook on Swedish Politics*. Oxford: Oxford University Press, sid.229-245. 
+”Voter Turnout” (2015), kaptiel i Jon Pierre (red.) *Oxford Handbook on Swedish Politics*. Oxford: Oxford University Press, sid. 229--245. 
 
 *Vilka valde att välja? Deltagandet i valen 2014* (2015). Stockholm: Statistiska centralbyrån. 
 
